@@ -21,7 +21,7 @@ $ python2.7 telegram webhook AWS lambda
 #TODO: Add messages for empty news sets
 
 
-bot = telepot.Bot('164003969:AAFYiwUKM6BA0IbaDSx5F9nhiSdkqQtpKvY')
+bot = telepot.Bot('BOT KEY HERE')
 
 ##RSS feeds for each team that are being parsed for the latest news
 sources = {'eagles': 'http://www.philly.com/philly_eagles.rss',
